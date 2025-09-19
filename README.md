@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
-Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
+Daniela Castillo \[22212251]; l22212251@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -45,3 +45,7 @@ Un circuito RLC representa un sistema de segundo orden que modeliza, de manera s
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
 \[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
+
+\[3] NS Hise, Ingeniería de sistemas de control, 8.ª ed. Hoboken, Nueva Jersey, EE. UU.: John Wiley & Sons, 2020.
+ 
+
