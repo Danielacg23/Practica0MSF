@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB;SPYDER
+message: lenguaje m; phyton
+type: software
+authors:
+  - given-names: Daniela
+    family-names: Castillo
+    affiliation: TecNM-ITT
+    email: l22212251@tectijuana.edu.mx
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - Sistema respiratorio
+  - Modelo matematico
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-09-19'
