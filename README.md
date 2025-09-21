@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación la estudiante
 Daniela Castillo \[22212251]; l22212251@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
